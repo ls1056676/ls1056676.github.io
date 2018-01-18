@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">A propos d'Arhia</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.arhia.fr"/>
+	<id>http://www.arhia.fr/about/vision-arhia.feed</id>
+	<updated>2018-01-08T23:55:45+01:00</updated>
+	<author>
+		<name>Arhia</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.arhia.fr/about/vision-arhia.feed?type=atom"/>
+	<entry>
+		<title>Historique</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/vision-arhia/54-historique.html"/>
+		<published>2014-05-02T20:36:29+02:00</published>
+		<updated>2014-05-02T20:36:29+02:00</updated>
+		<id>http://www.arhia.fr/about/vision-arhia/54-historique.html</id>
+		<author>
+			<name>Arnaud BENHAMDINE</name>
+		</author>
+		<summary type="html">&lt;p&gt;Arhia a été fondée en 2015 par Brankiça PAVLOVIC et Arnaud BENHAMDINE qui bénéficient tous deux d'une très forte expérience dans le secteur du SIRH et de la paye, au sein d’entreprises leaders dans ce domaine.&lt;/p&gt;
+&lt;p&gt;Comme beaucoup d'aventures entrepreneuriales, Arhia est le fruit des expériences, des savoir-faire et expertises de ses deux créateurs.&lt;/p&gt;
+&lt;p&gt;Arnaud et Brankiça travaillaient tous les deux pour des acteurs majeurs de l'externalisation de la paye. Lorsqu'ils se rencontrent, ils font le triple constat suivant :&lt;/p&gt;
+&lt;ul class=&quot;arhia-liste-1&quot;&gt;
+&lt;li&gt;les outils spécialisés dans la paye et l'administration du personnel sont compliqués, coûteux et leur fiabilité relative,&lt;/li&gt;
+&lt;li&gt;les prestations d'externalisation couvrent partiellement les besoins des PME,&lt;/li&gt;
+&lt;li&gt;la qualité de services rendus aux clients est dégradée par les objectifs de rentabilité des prestataires.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ainsi naît Arhia qui a pour ambition de renverser cette tendance :&lt;/p&gt;
+&lt;ul class=&quot;arhia-liste-1&quot;&gt;
+&lt;li&gt;en mettant à disposition un outil fiabilisé, simple et facile à utiliser&lt;/li&gt;
+&lt;li&gt;en délivrant une prestation couvrant toutes les activités liées à la paye et à l'administration du personnel&lt;/li&gt;
+&lt;li&gt;en plaçant la relation client au cœur de son activité.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://arhia.fr/about/team.html&quot;&gt;Profils des fondateurs&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Arhia a été fondée en 2015 par Brankiça PAVLOVIC et Arnaud BENHAMDINE qui bénéficient tous deux d'une très forte expérience dans le secteur du SIRH et de la paye, au sein d’entreprises leaders dans ce domaine.&lt;/p&gt;
+&lt;p&gt;Comme beaucoup d'aventures entrepreneuriales, Arhia est le fruit des expériences, des savoir-faire et expertises de ses deux créateurs.&lt;/p&gt;
+&lt;p&gt;Arnaud et Brankiça travaillaient tous les deux pour des acteurs majeurs de l'externalisation de la paye. Lorsqu'ils se rencontrent, ils font le triple constat suivant :&lt;/p&gt;
+&lt;ul class=&quot;arhia-liste-1&quot;&gt;
+&lt;li&gt;les outils spécialisés dans la paye et l'administration du personnel sont compliqués, coûteux et leur fiabilité relative,&lt;/li&gt;
+&lt;li&gt;les prestations d'externalisation couvrent partiellement les besoins des PME,&lt;/li&gt;
+&lt;li&gt;la qualité de services rendus aux clients est dégradée par les objectifs de rentabilité des prestataires.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ainsi naît Arhia qui a pour ambition de renverser cette tendance :&lt;/p&gt;
+&lt;ul class=&quot;arhia-liste-1&quot;&gt;
+&lt;li&gt;en mettant à disposition un outil fiabilisé, simple et facile à utiliser&lt;/li&gt;
+&lt;li&gt;en délivrant une prestation couvrant toutes les activités liées à la paye et à l'administration du personnel&lt;/li&gt;
+&lt;li&gt;en plaçant la relation client au cœur de son activité.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://arhia.fr/about/team.html&quot;&gt;Profils des fondateurs&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="A propos d'Arhia" />
+	</entry>
+	<entry>
+		<title>Nos engagements pour accompagner votre entreprise</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/vision-arhia/52-nos-engagements-pour-accompagner-votre-entreprise.html"/>
+		<published>2014-05-02T20:35:46+02:00</published>
+		<updated>2014-05-02T20:35:46+02:00</updated>
+		<id>http://www.arhia.fr/about/vision-arhia/52-nos-engagements-pour-accompagner-votre-entreprise.html</id>
+		<author>
+			<name>TRISTAN Ludovic</name>
+		</author>
+		<summary type="html">&lt;p&gt;La mission d'Arhia est de faciliter la vie des entreprises et de les affranchir des exigences liées à la gestion du personnel.&lt;/p&gt;
+&lt;p&gt;Ce que nous visons, c'est de permettre à nos clients de se concentrer sur leur coeur de métier et d'affecter leurs ressources financières et humaines sur des enjeux stratégiques.  &lt;/p&gt;
+&lt;p&gt;Offrir une prestation de qualité qui vise l’excellence et qui sécurise les risques encourus : c'est l'objectif ambitieux que nous nous sommes fixés !&lt;/p&gt;
+&lt;p&gt;Pour cela, nous nous engageons sur la qualité, la conformité et la fiabilité de nos prestations.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;La mission d'Arhia est de faciliter la vie des entreprises et de les affranchir des exigences liées à la gestion du personnel.&lt;/p&gt;
+&lt;p&gt;Ce que nous visons, c'est de permettre à nos clients de se concentrer sur leur coeur de métier et d'affecter leurs ressources financières et humaines sur des enjeux stratégiques.  &lt;/p&gt;
+&lt;p&gt;Offrir une prestation de qualité qui vise l’excellence et qui sécurise les risques encourus : c'est l'objectif ambitieux que nous nous sommes fixés !&lt;/p&gt;
+&lt;p&gt;Pour cela, nous nous engageons sur la qualité, la conformité et la fiabilité de nos prestations.&lt;/p&gt;</content>
+		<category term="A propos d'Arhia" />
+	</entry>
+	<entry>
+		<title>Des solutions RH innovantes</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/vision-arhia/51-des-solutions-rh-innovantes.html"/>
+		<published>2014-05-02T20:35:26+02:00</published>
+		<updated>2014-05-02T20:35:26+02:00</updated>
+		<id>http://www.arhia.fr/about/vision-arhia/51-des-solutions-rh-innovantes.html</id>
+		<author>
+			<name>TRISTAN Ludovic</name>
+		</author>
+		<summary type="html">&lt;p&gt;Arhia conçoit et commercialise des solutions RH (SIRH).&lt;/p&gt;
+&lt;p&gt;Nous proposons une plateforme Saas (Software as a Service) dédiée aux Ressources Humaines, associée à une prestation d’externalisation de la fonction administration du personnel et paye.&lt;/p&gt;
+&lt;p&gt;Arhia accompagne les PME dans leur développement et leur volonté de déployer des services RH modernes, innovants et performants.&lt;/p&gt;
+&lt;p&gt;Notre offre s’appuie sur une expertise opérationnelle éprouvée de plus de 25 années et rassemble les fonctionnalités les plus recherchées par les utilisateurs.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Arhia conçoit et commercialise des solutions RH (SIRH).&lt;/p&gt;
+&lt;p&gt;Nous proposons une plateforme Saas (Software as a Service) dédiée aux Ressources Humaines, associée à une prestation d’externalisation de la fonction administration du personnel et paye.&lt;/p&gt;
+&lt;p&gt;Arhia accompagne les PME dans leur développement et leur volonté de déployer des services RH modernes, innovants et performants.&lt;/p&gt;
+&lt;p&gt;Notre offre s’appuie sur une expertise opérationnelle éprouvée de plus de 25 années et rassemble les fonctionnalités les plus recherchées par les utilisateurs.&lt;/p&gt;</content>
+		<category term="A propos d'Arhia" />
+	</entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Valeurs</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.arhia.fr/about/valeurs.html</link>
+		<lastBuildDate>Mon, 08 Jan 2018 23:55:47 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.arhia.fr/about/valeurs.feed?type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Qualité et excellence</title>
+			<link>http://www.arhia.fr/about/valeurs/130-qualite-excellence.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/valeurs/130-qualite-excellence.html</guid>
+			<description><![CDATA[<p>Proposer des prestations visant l’excellence et la satisfaction totale de nos clients.</p>
+<p>Produire des services de qualité que nos clients apprécieront et dont nous serons fiers.</p>
+<p>Faire preuve de rigueur, de sérieux, de précision dans les résultats produits. </p>]]></description>
+			<category>Nos valeurs</category>
+			<pubDate>Thu, 16 Jul 2015 14:25:28 +0200</pubDate>
+		</item>
+		<item>
+			<title>Respect et ouverture d'esprit</title>
+			<link>http://www.arhia.fr/about/valeurs/131-respect-et-ouverture-d-esprit.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/valeurs/131-respect-et-ouverture-d-esprit.html</guid>
+			<description><![CDATA[<p>Être à l'écoute de nos clients et de nos collaborateurs.</p>
+<p>Être ouvert aux différents points de vue.</p>
+<p>Faire preuve d'empathie envers nos interlocuteurs.</p>]]></description>
+			<category>Nos valeurs</category>
+			<pubDate>Thu, 16 Jul 2015 14:25:28 +0200</pubDate>
+		</item>
+		<item>
+			<title>Agilité et réactivité</title>
+			<link>http://www.arhia.fr/about/valeurs/157-agilite-et-reactivite.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/valeurs/157-agilite-et-reactivite.html</guid>
+			<description><![CDATA[<p><span id="docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf">Adapter notre organisation.</span></p>
+<p><span id="docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf">Faire preuve de souplesse et d&rsquo;agilit&eacute; dans la r&eacute;solution des probl&eacute;matiques rencontr&eacute;es par nos clients.</span></p>
+<p>Ne pas h&eacute;siter &agrave; se remettre en question.</p>]]></description>
+			<category>Nos valeurs</category>
+			<pubDate>Mon, 16 Jan 2017 19:05:45 +0100</pubDate>
+		</item>
+		<item>
+			<title>Transparence et confiance</title>
+			<link>http://www.arhia.fr/about/valeurs/132-transparence-et-confiance.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/valeurs/132-transparence-et-confiance.html</guid>
+			<description><![CDATA[<p><span id="docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab">Instaurer un climat de confiance.</span></p>
+<p><span id="docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab">Être proche et partenaire avec nos interlocuteurs.</span></p>
+<p><span id="docs-internal-guid-383b8137-a8a8-18a1-3904-fd5a0a591c5f">Exprimer l’honnêteté nécessaire dans toute relation professionnelle : dire ce qui est possible ou pas, rechercher à s’améliorer, agir.</span></p>
+]]></description>
+			<category>Nos valeurs</category>
+			<pubDate>Thu, 16 Jul 2015 14:25:28 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

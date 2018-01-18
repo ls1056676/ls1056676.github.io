@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Equipe dirigeante</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.arhia.fr/about/team.html</link>
+		<lastBuildDate>Mon, 08 Jan 2018 23:55:45 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.arhia.fr/about/team.feed?type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Brankiça Pavlovic</title>
+			<link>http://www.arhia.fr/about/team/46-brankica-pavlovic-ceo-arhia.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/team/46-brankica-pavlovic-ceo-arhia.html</guid>
+			<description><![CDATA[<h4><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first item_title_part_last">CEO</span></h4>
+<p>Diplômée en droit du travail et gestion des ressources humaines, Brankiça possède une expérience de 25 années dans le domaine de la paye et de l’administration du personnel.</p>
+<p>Brankiça a notamment occupé des fonctions de responsable opérationnelle dans des environnements complexes (multi établissements, multi conventions collectives, PSE, liquidation de sociétés...).</p>
+<p>Pendant 10 ans, en tant que Consultante, elle a accompagné des PME et formé des professionnels en ressources humaines. Elle est intervenue sur la mise en place des accords RTT, a mené des diagnostics et audits de conformité et assisté les entreprises lors de contrôles URSSAF.</p>
+<p>Elle a également exercé les responsabilités de Directrice des Services Clients pour le leader mondial du SIRH et de la paie.</p>
+<p>Au sein d'Arhia, sa double compétence (SI et expertise technique) lui permet de prendre en charge la mise en œuvre des nouveaux dossiers et de piloter le service client.</p>
+<p><a href="https://www.linkedin.com/in/brankica-pavlovic-31b530116">Profil LinkedIn</a></p>
+<p> </p>]]></description>
+			<category>Equipe dirigeante</category>
+			<pubDate>Fri, 02 May 2014 20:32:22 +0200</pubDate>
+		</item>
+		<item>
+			<title>Arnaud Benhamdine</title>
+			<link>http://www.arhia.fr/about/team/45-arnaud-benhamdine-cto-arhia.html</link>
+			<guid isPermaLink="true">http://www.arhia.fr/about/team/45-arnaud-benhamdine-cto-arhia.html</guid>
+			<description><![CDATA[<h4><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first item_title_part_last">CTO</span></h4>
+<p>Diplômé en sciences politiques, économie et expertise-comptable, Arnaud a débuté sa carrière en tant que chercheur en économie.</p>
+<p>Arnaud a ensuite acquis une expérience de 15 années dans le conseil en ressources humaines, notamment dans le domaine de la paye et de l'administration du personnel, au sein d’acteurs majeurs du conseil et d'éditeurs de logiciels RH.</p>
+<p>Il a récemment exercé les fonctions de Responsable Juridique et Processus Paie chez un des leaders français du SIRH et de la paye.</p>
+<p>Arnaud a également animé de nombreuses formations auprès d'étudiants et de professionnels sur les différentes problématiques liées à la paye.</p>
+<p>Passionné par le développement informatique et les enjeux liés à la dématérialisation, Arnaud a en charge chez Arhia la R&amp;D, la conception de la plate-forme RH ainsi que sa conformité à la réglementation, notamment sur la gestion de la paye. </p>
+<p><a href="https://www.linkedin.com/in/arnaud-benhamdine-24b9053">Profil LinkedIn</a></p>
+<p><a href="https://github.com/abenhamdine">Profil Github</a></p>]]></description>
+			<category>Equipe dirigeante</category>
+			<pubDate>Fri, 02 May 2014 20:31:39 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

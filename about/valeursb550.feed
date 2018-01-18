@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Valeurs</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.arhia.fr"/>
+	<id>http://www.arhia.fr/about/valeurs.feed</id>
+	<updated>2018-01-08T23:55:48+01:00</updated>
+	<author>
+		<name>Arhia</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.arhia.fr/about/valeurs.feed?type=atom"/>
+	<entry>
+		<title>Qualité et excellence</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/valeurs/130-qualite-excellence.html"/>
+		<published>2015-07-16T14:25:28+02:00</published>
+		<updated>2015-07-16T14:25:28+02:00</updated>
+		<id>http://www.arhia.fr/about/valeurs/130-qualite-excellence.html</id>
+		<author>
+			<name>Arnaud BENHAMDINE</name>
+		</author>
+		<summary type="html">&lt;p&gt;Proposer des prestations visant l’excellence et la satisfaction totale de nos clients.&lt;/p&gt;
+&lt;p&gt;Produire des services de qualité que nos clients apprécieront et dont nous serons fiers.&lt;/p&gt;
+&lt;p&gt;Faire preuve de rigueur, de sérieux, de précision dans les résultats produits. &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Proposer des prestations visant l’excellence et la satisfaction totale de nos clients.&lt;/p&gt;
+&lt;p&gt;Produire des services de qualité que nos clients apprécieront et dont nous serons fiers.&lt;/p&gt;
+&lt;p&gt;Faire preuve de rigueur, de sérieux, de précision dans les résultats produits. &lt;/p&gt;</content>
+		<category term="Nos valeurs" />
+	</entry>
+	<entry>
+		<title>Respect et ouverture d'esprit</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/valeurs/131-respect-et-ouverture-d-esprit.html"/>
+		<published>2015-07-16T14:25:28+02:00</published>
+		<updated>2015-07-16T14:25:28+02:00</updated>
+		<id>http://www.arhia.fr/about/valeurs/131-respect-et-ouverture-d-esprit.html</id>
+		<author>
+			<name>TRISTAN Ludovic</name>
+		</author>
+		<summary type="html">&lt;p&gt;Être à l'écoute de nos clients et de nos collaborateurs.&lt;/p&gt;
+&lt;p&gt;Être ouvert aux différents points de vue.&lt;/p&gt;
+&lt;p&gt;Faire preuve d'empathie envers nos interlocuteurs.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Être à l'écoute de nos clients et de nos collaborateurs.&lt;/p&gt;
+&lt;p&gt;Être ouvert aux différents points de vue.&lt;/p&gt;
+&lt;p&gt;Faire preuve d'empathie envers nos interlocuteurs.&lt;/p&gt;</content>
+		<category term="Nos valeurs" />
+	</entry>
+	<entry>
+		<title>Agilité et réactivité</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/valeurs/157-agilite-et-reactivite.html"/>
+		<published>2017-01-16T19:05:45+01:00</published>
+		<updated>2017-01-16T19:05:45+01:00</updated>
+		<id>http://www.arhia.fr/about/valeurs/157-agilite-et-reactivite.html</id>
+		<author>
+			<name>Arnaud BENHAMDINE</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf&quot;&gt;Adapter notre organisation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf&quot;&gt;Faire preuve de souplesse et d&amp;rsquo;agilit&amp;eacute; dans la r&amp;eacute;solution des probl&amp;eacute;matiques rencontr&amp;eacute;es par nos clients.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Ne pas h&amp;eacute;siter &amp;agrave; se remettre en question.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf&quot;&gt;Adapter notre organisation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8ab-38ec-25a6-161d9eb02cdf&quot;&gt;Faire preuve de souplesse et d&amp;rsquo;agilit&amp;eacute; dans la r&amp;eacute;solution des probl&amp;eacute;matiques rencontr&amp;eacute;es par nos clients.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Ne pas h&amp;eacute;siter &amp;agrave; se remettre en question.&lt;/p&gt;</content>
+		<category term="Nos valeurs" />
+	</entry>
+	<entry>
+		<title>Transparence et confiance</title>
+		<link rel="alternate" type="text/html" href="http://www.arhia.fr/about/valeurs/132-transparence-et-confiance.html"/>
+		<published>2015-07-16T14:25:28+02:00</published>
+		<updated>2015-07-16T14:25:28+02:00</updated>
+		<id>http://www.arhia.fr/about/valeurs/132-transparence-et-confiance.html</id>
+		<author>
+			<name>TRISTAN Ludovic</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab&quot;&gt;Instaurer un climat de confiance.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab&quot;&gt;Être proche et partenaire avec nos interlocuteurs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a8-18a1-3904-fd5a0a591c5f&quot;&gt;Exprimer l’honnêteté nécessaire dans toute relation professionnelle : dire ce qui est possible ou pas, rechercher à s’améliorer, agir.&lt;/span&gt;&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab&quot;&gt;Instaurer un climat de confiance.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a7-d6c6-d38f-482f9f0416ab&quot;&gt;Être proche et partenaire avec nos interlocuteurs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;docs-internal-guid-383b8137-a8a8-18a1-3904-fd5a0a591c5f&quot;&gt;Exprimer l’honnêteté nécessaire dans toute relation professionnelle : dire ce qui est possible ou pas, rechercher à s’améliorer, agir.&lt;/span&gt;&lt;/p&gt;
+</content>
+		<category term="Nos valeurs" />
+	</entry>
+</feed>
